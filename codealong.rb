@@ -1,2 +1,2 @@
 def price_of_dinner
-  puts ""
+  puts "How much was dinner?"
