@@ -1,6 +1,7 @@
 def price_of_dinner
   puts "How much was dinner?"
-  gets.chomp = 
+  dinner_price = gets.chomp 
+  
 end
 
 price_of_dinner
